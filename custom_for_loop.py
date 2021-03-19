@@ -19,3 +19,4 @@ def square(x):
     
 my_for("hello", print) 
 my_for([1,2,3,4,5], square)
+my_for([1235,25,12], square)
